@@ -41,3 +41,6 @@ module.exports = {
   calculateTotal,
   login,
 };
+
+const newPassword = "ThisIsTheNewPassword";
+
